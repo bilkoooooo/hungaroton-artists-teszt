@@ -9,6 +9,7 @@ import {
 import {useArtists} from "@/src/hooks/useArtists";
 import ArtistFiltersComponent from "@/src/components/ArtistFilters";
 import ArtistList from "@/src/components/ArtistList";
+import React from "react";
 
 
 const ArtistsPage: React.FC = () => {
